@@ -1,6 +1,6 @@
 const SENDGRID_CONFIG ={
     'baseURL' : 'https://api.sendgrid.com/v3/',
-    'apiKey' : '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',
+    'apiKey' : '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',
     'fromAddress' : "SiteMinder <SiteMinder@mail.nbitcs.com>"
 };
 
